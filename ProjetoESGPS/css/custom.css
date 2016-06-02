@@ -1,0 +1,52 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #1A1A1A;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+.container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+
+div.container {
+  width: auto;
+  max-width: 1600px;
+  padding: 0 15px;
+}
+
+.ScrollStyle
+{
+
+  max-height: 800px;
+  overflow-y: scroll;
+}
+
+#listaPacientes {
+
+  border-radius: solid 2px #5e5e5e;
+
+}
+

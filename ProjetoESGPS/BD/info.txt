@@ -1,0 +1,2 @@
+Para instalar a BD à que primeiro criar uma base de dados vazia com o nome "alberteinstein" 
+e fazer o import do ficheiro "alberteinstein.sql" para essa base de dados
